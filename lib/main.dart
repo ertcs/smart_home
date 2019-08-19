@@ -27,20 +27,21 @@ class _HomeState extends State<Home> {
   int _selectedIndex = 0;
   static const TextStyle optionStyle =
       TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
-  static const List<Widget> _widgetOptions = <Widget>[
-    Text(
-      'Index 0: home',
-      style: optionStyle,
-    ),
-    Text(
-      'Index 1: members',
-      style: optionStyle,
-    ),
-    Text(
-      'Index 2: setting',
-      style: optionStyle,
-    ),
-  ];
+
+//  static const List<Widget> _widgetOptions = <Widget>[
+//    Text(
+//      'Index 0: home',
+//      style: optionStyle,
+//    ),
+//    Text(
+//      'Index 1: members',
+//      style: optionStyle,
+//    ),
+//    Text(
+//      'Index 2: setting',
+//      style: optionStyle,
+//    ),
+//  ];
 
   void _onItemTapped(int index) {
     setState(() {
@@ -57,7 +58,7 @@ class _HomeState extends State<Home> {
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             icon: Icon(CustomIcons.home),
-            title: Text('home'),
+            title: Text('home')
           ),
           BottomNavigationBarItem(
             icon: Icon(CustomIcons.group),
@@ -69,7 +70,7 @@ class _HomeState extends State<Home> {
           ),
         ],
         currentIndex: _selectedIndex,
-        selectedItemColor: Colors.blueAccent,
+        selectedItemColor: Colors.black,
         onTap: _onItemTapped,
       ),
     );
