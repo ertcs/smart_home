@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Home(),
     );
   }
@@ -95,7 +96,7 @@ class HomePage extends StatelessWidget {
                     Expanded(
                       flex: 9,
                       child: Container(
-                        width: MediaQuery.of(context).size.width,
+                        width: orientation==Orientation.portrait?MediaQuery.of(context).size.width:MediaQuery.of(context).size.width-80,
                         child: ScrollView(),
                       ),
                     )
