@@ -1,6 +1,7 @@
 # smart_home
 
-UI of Smart Home Control Panel App
+UI of Smart Home Control Panel App 
+UI desing concept https://dribbble.com/shots/6959677-Smart-home/attachments/1785?mode=media
 
 ## Getting Started
 
