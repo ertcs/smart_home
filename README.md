@@ -1,7 +1,13 @@
 # smart_home
 
-UI of Smart Home Control Panel App 
-UI desing concept https://dribbble.com/shots/6959677-Smart-home/attachments/1785?mode=media
+<p> UI of Smart Home Control Panel App
+<p> UI design  concept https://dribbble.com/shots/6959677-Smart-home/attachments/1785?mode=media
+  
+![Alt text](https://github.com/ertcs/smart_home/blob/master/screenshot/Screenshot%202019-08-19%20at%2010.44.45%20AM.png)
+![Alt text](https://github.com/ertcs/smart_home/blob/master/screenshot/Screenshot%202019-08-19%20at%2010.45.35%20AM.png)
+![Alt text](https://github.com/ertcs/smart_home/blob/master/screenshot/Screenshot%202019-08-19%20at%2010.50.45%20AM.png)
+![Alt text](https://github.com/ertcs/smart_home/blob/master/screenshot/Screenshot%202019-08-19%20at%2010.51.09%20AM.png)  
+![Watch the video](http://i3.ytimg.com/vi/Z6ZFLlrda_Y/maxresdefault.jpg)](https://youtu.be/Z6ZFLlrda_Y)
 
 ## Getting Started
 
