@@ -54,24 +54,6 @@ class ControlKnob extends StatelessWidget {
                       ),
                     ),
                   ),
-                  Positioned(
-                    top: 0,
-                    left: 10,
-                    right: 10,
-                    bottom: 20,
-                    child: Container(
-                      width: double.infinity,
-                      height: double.infinity,
-                      decoration: BoxDecoration(
-                          color: Colors.white,
-                          shape: BoxShape.circle,
-                        border: Border.all(color: Colors.white)
-                      ),
-                      child: Padding(
-                        padding: const EdgeInsets.all(20.0),
-                      ),
-                    ),
-                  ),
                   Align(
                     alignment: Alignment.topCenter,
                     child: Padding(
