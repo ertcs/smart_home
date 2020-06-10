@@ -7,7 +7,7 @@
 ![Alt text](https://github.com/ertcs/smart_home/blob/master/screenshot/Screenshot%202019-08-19%20at%2010.45.35%20AM.png)
 ![Alt text](https://github.com/ertcs/smart_home/blob/master/screenshot/Screenshot%202019-08-19%20at%2010.50.45%20AM.png)
 ![Alt text](https://github.com/ertcs/smart_home/blob/master/screenshot/Screenshot%202019-08-19%20at%2010.51.09%20AM.png)  
-![Watch the video](http://i3.ytimg.com/vi/Z6ZFLlrda_Y/maxresdefault.jpg)](https://youtu.be/Z6ZFLlrda_Y)
+![Watch the video](http://img.youtube.com/vi/-vmgeE1nZkM/maxresdefault.jpg)](https://youtu.be/-vmgeE1nZkM)
 
 ## Getting Started
 
